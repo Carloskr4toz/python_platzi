@@ -1,0 +1,13 @@
+Diccionarios: Son una estructura de datos mutable las cuales almacenan diferentes tipos de valores sin darle importancia a su orden. Identifican a cada elemento por una clave (Key). Se escriben entre {}.
+
+Operaciones:
+
+.keys() —> Retorna la clave de nuestro elemento
+
+.values()—> Retorna una lista de elementos (valores del diccionario)
+
+.items() —> Devuelve lista de tuplas (primero la clave y luego el valor)
+
+.clear() —> Elimina todos los items del diccionario
+
+.pop(“n”) —> Elimina el elemento ingresado

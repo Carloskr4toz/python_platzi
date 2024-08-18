@@ -1,0 +1,100 @@
+1.
+¿Qué es programar?
+Darle instrucciones a la computadora para resolver un problema   
+2.
+¿Cuál de las siguientes especialidades de la tecnología es más afín a Python?
+Frontend   backend
+REPASAR CLASE
+3.
+¿Qué es un algoritmo?
+Una serie de pasos que nos permiten resolver un problema
+4.
+Los pasos de un algoritmo son finitos
+Falso      true
+REPASAR CLASE
+5.
+¿Por qué debería usar un editor de código para programar?
+Todas las opciones
+
+6.
+¿Qué comando de la consola sirve para moverse entre carpetas?
+cd
+
+7.
+¿Qué comando de la consola sirve para crear un archivo?
+mkdir           touch
+REPASAR CLASE
+8.
+¿Cuál es el resultado de la siguiente operación en Python? 10 / 2 + 5 * 7
+
+40
+9.
+¿Cuál de los siguientes identificadores es válido y correcto según los estilos de Python?
+mi_variable
+
+10.
+Puedo dividir un string por un número entero
+Falso
+11.
+Puedo multiplicar un string por un número entero
+Falso           verdadero
+REPASAR CLASE
+12.
+Existe una variable de nombre mi_numero que contiene el número 1 como string. ¿Cómo transformo el valor a entero y lo guardo nuevamente en mi_numero?
+
+mi_numero = int(mi_numero)
+
+13.
+Existe una variable es_estudiante con el valor True, y otra variable es_profesor con el valor False. ¿Cuál es el resultado de es_estudiante and es_profesor?
+
+False
+
+14.
+Existe una variable es_estudiante con el valor True, y otra variable es_profesor con el valor False. ¿Cuál es el resultado de es_estudiante or es_profesor?
+
+True
+
+15.
+¿Cuál es el resultado de hacer round(10.3456, 2)?
+
+10.35
+16.
+¿Cuántos espacios debo dejar de sangría para escribir un bloque de código (debajo de una sentencia if, una función o un ciclo)?
+
+4
+17.
+¿Cuál es la ventaja de definir strings con triple comilla doble (""") ?
+Puedo utilizar comillas tanto dobles como simples dentro sin problema alguno    mal
+REPASAR CLASE
+18.
+¿Qué son las funciones?
+Una herramienta que permite ahorrar código escribiendo la lógica solo una vez, para no repetirla en el futuro
+19.
+¿Qué son los parámetros de una función?
+Variables que se pasan al momento de la invocación, y que estarán disponibles para ser usadas dentro de la función
+20.
+¿Qué método de las strings coloca la primera letra en mayúsculas?
+capitalize
+
+21.
+¿Cuál es el orden correcto de elementos a indicar cuando se trabaja con slices?
+[índice inicial : índice final : pasos]
+
+22.
+¿Cuál de los siguientes ejemplos de una sentencia while es el correcto?
+
+while (numero = 3):       sin parentesis uwu
+
+REPASAR CLASE
+23.
+¿Cuál es la función de la palabra clave break?
+
+Cortar la ejecución de un ciclo
+24.
+¿Qué método sirve para agregar un elemento a una lista?
+join            adden
+
+REPASAR CLASE
+25.
+¿Cuál es la diferencia entre una tupla y una lista?
+Todas las opciones son correctas
